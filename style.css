@@ -1,13 +1,19 @@
-body {background-color:black;font-family:arial;color:white}
+body {background-color:black; font-family:arial;color:white}
 h1{color:grey;font-family:verdana}
-.maindiv {
-    background-color: white;
-    width: 300px;
-    padding: 20px;
-    border-radius: 25px;
-    align: center;
-    color: #000;
-    
+.maindiv{
+    background-color:white;
+    color:Green;
+    width:500px;
+    padding:20px;
+    border-radius:25px;
+    text-align: justify;
+	}
+#principal{
+	margin-left:60px;
 }
-
-
+#rate{
+	margin-left:25px;
+}
+#years{
+	margin-left:27px;
+}
